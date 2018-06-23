@@ -65,7 +65,6 @@ public class Item {
 	@Override
 	public int hashCode() {
 		return HashCodeBuilder.reflectionHashCode(this);
-
 	}
 
 	@Override
