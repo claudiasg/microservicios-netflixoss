@@ -70,8 +70,9 @@ public class Item {
 
 	@Override
 	public boolean equals(Object obj) {
-		return EqualsBuilder.reflectionEquals(this, obj);
 		System.out.println("Added by me in Item");
+		return EqualsBuilder.reflectionEquals(this, obj);
+		
 	}
 	
 }
