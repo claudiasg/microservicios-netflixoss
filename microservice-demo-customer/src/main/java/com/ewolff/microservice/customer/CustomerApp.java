@@ -36,7 +36,8 @@ public class CustomerApp {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CustomerApp.class, args);
+		System.out.println("Added by me in CustomerApp");
 		
 	}
-	System.out.println("Added by me in CustomerApp");
+	
 }
