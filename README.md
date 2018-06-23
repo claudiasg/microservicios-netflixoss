@@ -15,10 +15,8 @@ $ mvn clean compile package -Dmaven.test.skip=true
   
   ### version 1.0.1 - 2018-06-23
 
-    **  added **
-    ** Nombre: Claudia Salazar G. **
-    ** email: claudi_a14@hotmail.com **
-    ** 2018-06-23 **
+    **  added   _Nombre: Claudia Salazar G.  _email: claudi_a14@hotmail.com  _fecha:2018-06-23 **
+    
     
     - a line of code to show message in OrderApp.java
     - a line of code to show message in CustomerApp.java
